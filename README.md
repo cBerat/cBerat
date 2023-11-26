@@ -3,6 +3,8 @@
 
 - 📫 How to reach me **brtcftlr2@gmail.com**
 
+- My Discord --> beratc._
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/berat çiftler" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="berat çiftler" height="30" width="40" /></a>
